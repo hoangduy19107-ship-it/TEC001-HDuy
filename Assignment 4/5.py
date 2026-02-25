@@ -1,4 +1,4 @@
-def oddnum(numbers):
+def evennum(numbers):
     even_numbers = []
     for num in numbers:
         if num % 2 == 0:
@@ -6,7 +6,7 @@ def oddnum(numbers):
     return even_numbers
 
 list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-oddlist = oddnum(list)
+evenlist = evennum(list)
 
 print(f"Your list: {list}")
-print(f"Odd numbers: {oddlist}")
+print(f"Even numbers: {evenlist}")
