@@ -1,6 +1,10 @@
 fruit = 'banana'
-'n' in fruit
-'m' in fruit
-'nan' in fruit
 if 'a' in fruit :
     print('Found it!')
+
+
+greet = 'Hello Bob' 
+a = greet.upper()
+print(a)
+b = greet.lower()
+print(b)
