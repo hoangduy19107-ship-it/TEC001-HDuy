@@ -1,5 +1,4 @@
 import random
-#combination lock 
 a = random.randint(1,100)
 line = input("Guess the number between 1 and 100: ")
 while True:

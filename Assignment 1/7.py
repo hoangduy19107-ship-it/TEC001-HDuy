@@ -1,5 +1,4 @@
 import random
-#combination lock 
 a = random.randint(0,9)
 b = random.randint(0,9)
 c = random.randint(0,9)
