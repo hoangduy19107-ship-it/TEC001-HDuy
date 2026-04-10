@@ -1,0 +1,20 @@
+[
+  {
+    "icao": "VVNB",
+    "name": "Noi Bai International Airport",
+    "city": "Hanoi",
+    "country": "VN"
+  },
+  {
+    "icao": "VVTS",
+    "name": "Tan Son Nhat International Airport",
+    "city": "Ho Chi Minh City",
+    "country": "VN"
+  },
+  {
+    "icao": "RCTP",
+    "name": "Taiwan Taoyuan International Airport",
+    "city": "Taipei",
+    "country": "TW"
+  }
+]
